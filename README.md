@@ -45,8 +45,23 @@ Estoy buscando mi primera experiencia profesional como **pasante o desarrollador
 
 ### Proyectos
 
-> 🚧 Próximamente — estoy documentando mis proyectos académicos.
-> Mientras tanto podés ver el código en mis repositorios.
+#### 🏛️ [RDAM — Registro de Deudores Alimentarios Morosos](https://github.com/facuriffel/Sistema-Rdam_Riffel)
+Sistema web completo para la gestión de solicitudes y emisión de certificados de libre deuda alimentaria. Desarrollado en el marco del Campus de Verano 2026 de **i2T Software Factory**.
+
+Implementa autenticación con **JWT**, arquitectura separada en frontend y backend, integración con una pasarela de pagos (mock PlusPagos), y toda la infraestructura orquestada con **Docker Compose** (MySQL, MinIO, MailHog, Redis).
+
+`React 18` `TypeScript` `Vite` `Tailwind CSS` `Java 21` `Spring Boot` `Spring Security` `JWT` `MySQL` `Docker` `Docker Compose`
+
+---
+
+#### 🍽️ Sistema de Gestión de Pedidos — Restaurante
+Sistema full stack para la gestión de pedidos de un restaurante, desarrollado en equipo. Compuesto por tres módulos:
+
+- **[Backend](https://github.com/facuriffel/Badaracco-Villarroel-Riffel-Grupo7-4taEtapa-GestionDePedidos-Backend)** — API REST construida con Java y Spring Boot que expone los endpoints de gestión de pedidos.
+- **[Frontend web](https://github.com/facuriffel/Badaracco-Villarroel-Riffel-Grupo7-4taEtapa-GestionDePedidos-Frontend)** — Interfaz de administración y toma de pedidos.
+- **[App de cocina](https://github.com/facuriffel/Proyecto_PP1_Frontend_Cocina_ReactNative)** — Aplicación móvil en React Native + TypeScript para que el personal de cocina visualice y gestione los pedidos en tiempo real.
+
+`Java` `Spring Boot` `React Native` `TypeScript` `Expo` `MySQL`
 
 ---
 
@@ -57,7 +72,7 @@ Estoy buscando mi primera experiencia profesional como **pasante o desarrollador
     <img src="https://img.shields.io/badge/LinkedIn-Facundo_Riffel-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:TU_EMAIL_AQUI">
+  <a href="mailto:facundoriffel04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Escribime-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
