@@ -78,11 +78,3 @@ Sistema full stack para la gestión de pedidos de un restaurante, desarrollado e
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facuriffel&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuriffel&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
-.
